@@ -1,4 +1,4 @@
-# eCommerce Website Project
+# E Commerce Project
 
 ## Overview
 
@@ -18,7 +18,7 @@ This is an eCommerce website project developed in Python, designed to provide a 
 - **Backend:** Python 3.8
 - **Database:** MySQL 8.0
 - **Frontend:** HTML, CSS, JavaScript
-- **Other Technologies:** [List any other relevant technologies]
+
 
 ## Getting Started
 
@@ -26,7 +26,7 @@ This is an eCommerce website project developed in Python, designed to provide a 
 
 - Python 3.8
 - MySQL 8.0
-- [Other dependencies, if any]
+
 
 ### Installation
 
@@ -45,11 +45,11 @@ python manage.py migrate
 
 # Run the development server:
 python manage.py runserver
-
-# Usage
+```
+###Usage
 
 Explore the website, add products to the cart, and proceed to checkout.
 
-# Contact
+### Contact
 
 For questions or support, contact [shrutisohi04@gmail.com].
