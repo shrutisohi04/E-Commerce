@@ -46,7 +46,7 @@ python manage.py migrate
 # Run the development server:
 python manage.py runserver
 ```
-###Usage
+### Usage
 
 Explore the website, add products to the cart, and proceed to checkout.
 
