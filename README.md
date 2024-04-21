@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is an eCommerce website project developed in Python, designed to provide a robust platform for online shopping. The project uses MySQL as the database and follows best practices in web development.
+This is an eCommerce website project developed in Python, designed to provide a robust platform for online shopping. The project uses MySQL as the database.
 
 ## Features
 
@@ -17,7 +17,6 @@ This is an eCommerce website project developed in Python, designed to provide a 
 
 - **Backend:** Python 3.8
 - **Database:** MySQL 8.0
-- **Frontend:** HTML, CSS, JavaScript
 
 
 ## Getting Started
